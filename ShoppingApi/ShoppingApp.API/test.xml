@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<people xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<person id="kx346" source="RING">
+<identities>
+<identity type="SN Last Four">
+<id>123</id>
+</identity>
+<identity type="Number">
+<id>456</id>
+</identity>
+</identities>
+<names>
+<name type="Legal Name">
+<givenName1>eva</givenName1>
+<givenName2>kia</givenName2>
+<lastName>tjok</lastName>
+</name>
+</names>
+<addresses>
+<address type="Home Address">
+<lineOne>123</lineOne>
+<lineTwo>pattom</lineTwo>
+<city>Mission</city>
+<province>KS</province>
+<postalCode>66202</postalCode>
+<countryCode>India</countryCode>
+</address>
+</addresses>
+<phoneNumbers>
+<phoneNumber type="Home Phone">
+<number>85674321</number>
+</phoneNumber>
+<phoneNumber type="Unknown Phone">
+<number>98567</number>
+</phoneNumber>
+</phoneNumbers>
+<emailAddresses>
+<emailAddress type="Unknown Email">
+<email>eva@gmail.com</email>
+</emailAddress>
+</emailAddresses>
+<attributes>
+<ethnicity>ki</ethnicity>
+<gender>M</gender>
+</attributes>
+</person>
+</people>
+

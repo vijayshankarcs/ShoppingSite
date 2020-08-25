@@ -1,0 +1,1 @@
+{"tables":[{"name":"PrimaryResult","columns":[{"name":"TimeGenerated","type":"datetime"},{"name":"Resource","type":"string"},{"name":"AggregatedValue","type":"real"}],"rows":[["2020-06-04T01:30:00Z","GUAFY20",0.06] ["2020-06-04T01:30:00Z","GUAFY20",0.06]]}]}
